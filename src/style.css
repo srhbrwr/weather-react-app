@@ -17,10 +17,11 @@ body {
   max-width: 700px;
   border: 1px solid #005792;
   border-radius: 20px;
+  text-align: center;
 }
 
 .search-form {
-  text-align: right;
+  text-align: left;
   margin-right: 75px;
   padding: 20px;
 }
