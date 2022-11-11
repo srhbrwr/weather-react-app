@@ -5,7 +5,7 @@ import "./style.css";
 export default function Footer() {
   return (
     <small>
-      <a href="#">Open-source code</a>
+      <a href="/">Open-source code</a>
       <span>, by Sarah Brewer</span>
     </small>
   );
